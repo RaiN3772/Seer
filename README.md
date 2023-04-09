@@ -1,5 +1,5 @@
 # Seer
-
+The code is a PHP script intended for experimental purposes only and is not recommended for use in production environments. It is important to note that the code is not secure and should not be used to handle sensitive or confidential data
 # Seer Project
 
 - Current version (1.21) includes the Templates and Functions folders
